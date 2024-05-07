@@ -1,8 +1,7 @@
 # Programic - Laravel AutoAfleveren
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/programic/laravel-autoafleveren.svg?style=flat-square)](https://packagist.org/packages/programic/laravel-autoafleveren)
-[![Tests](https://github.com/programic/laravel-autoafleveren/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/programic/laravel-autoafleveren/actions/workflows/tests.yml)
-![](https://github.com/programic/laravel-autoafleveren/workflows/Run%20Tests/badge.svg?branch=main)
+[![Run tests](https://github.com/programic/laravel-autoafleveren/actions/workflows/tests.yml/badge.svg)](https://github.com/programic/laravel-autoafleveren/actions/workflows/tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/programic/laravel-autoafleveren.svg?style=flat-square)](https://packagist.org/packages/programic/laravel-autoafleveren)
 
 A Laravel API wrapper for AutoAfleveren API
@@ -79,6 +78,7 @@ If you discover any security-related issues, please email [info@programic.com](m
 ## Credits
 
 - [Rick Bongers](https://github.com/rbongers)
+- [Thom Tijdink](https://github.com/thomtijdink)
 - [All Contributors](../../contributors)
 
 ## License
