@@ -6,8 +6,8 @@ use Programic\AutoAfleveren\Http\ObjectRequest;
 
 trait HasObjectRequests
 {
-    public function jobs(): ObjectRequest
+    public function jobs(int $companyId): ObjectRequest
     {
-        return new ObjectRequest($this, '/jobs');
+        return new ObjectRequest($this, "/$companyId/jobs");
     }
 }
